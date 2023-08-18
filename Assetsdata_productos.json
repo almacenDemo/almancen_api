@@ -2,22 +2,22 @@
 	"allData": [
 		{
 			"NUMERO_DE_PRODUCTO": "1",
-			"CONCEPTO": "tuberia 1",
+			"CONCEPTO": "tuberia_1",
 			"CANTIDAD": "1",
 			"FECHA": "2023-8-17T23:9",
 			"DENOMINACION": "PZ",
-			"DESCRIPCION": "tuberia azul",
+			"DESCRIPCION": "tuberia_azul",
 			"USUARIO": "",
 			"CORREO": "",
 			"URLFOTO": "jjjjjjjjjjj"
 		},
 		{
 			"NUMERO_DE_PRODUCTO": "2",
-			"CONCEPTO": "tuberia 2",
+			"CONCEPTO": "tuberia_2",
 			"CANTIDAD": "2",
 			"FECHA": "2023-5-17T23:9",
 			"DENOMINACION": "PZ",
-			"DESCRIPCION": "tuberia violeta",
+			"DESCRIPCION": "tuberia_violeta",
 			"USUARIO": "",
 			"CORREO": "",
 			"URLFOTO": ""
